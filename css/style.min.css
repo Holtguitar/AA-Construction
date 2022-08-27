@@ -593,12 +593,20 @@ footer {
 }
 
 @media (max-width: 767px) {
+  h1 {
+    font-size: 50px !important;
+  }
+
   .boxed-page {
     margin: 4rem 15px;
   }
   .not-on-top #gtco-header-navbar {
     margin-right: 15px;
     margin-left: 15px;
+  }
+
+  #gtco-counter {
+    left: -35px;
   }
   .counter-item {
     margin-bottom: 40px;
