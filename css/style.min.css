@@ -32,6 +32,10 @@ body:after {
   /* background: linear-gradient(to right, #1d19f5, #2711f1); */
 }
 
+h1 {
+  text-shadow: 2px 2px 2px grey;
+}
+
 .boxed-page {
   margin: 0 auto;
   margin-top: 6rem;
